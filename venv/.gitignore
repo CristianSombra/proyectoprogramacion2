@@ -1,0 +1,21 @@
+# Entorno virtual
+venv/
+.env
+
+# Archivos compilados de Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Archivos temporales
+*.log
+*.sqlite3
+*.db
+.DS_Store
+
+# Configuración de VSCode (opcional si compartís workspace)
+.vscode/
+
+# Dependencias
+pip-log.txt
